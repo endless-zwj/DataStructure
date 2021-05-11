@@ -1,0 +1,21 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include<windows.h>
+
+//≤Â»Î≈≈–Ú
+void InsertSort(int* ,int);
+
+//œ£∂˚≈≈–Ú
+void ShellSort(int* , int );
+
+//—°‘Ò≈≈–Ú
+void ElectSort(int*, int);
+
+//√∞≈›≈≈–Ú
+void BubbleSort(int*  , int );
+
+//∂—≈≈–Ú
+void HeapSort(int*, int);
+
+//¥Ú”° ˝◊È
+void Print(int*, int ); 
